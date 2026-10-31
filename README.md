@@ -54,49 +54,6 @@ Gosto de entender como as coisas funcionam por baixo do capô — de uma linha d
 
 <br/>
 
-<!-- ==================== PROJETOS ==================== -->
-<h2 align="left">🚀 Projetos</h2>
-
-<!--
-  COMO PREENCHER OS CARDS:
-  Copie o bloco abaixo e substitua:
-  - NOME-DO-REPO  → nome exato do repositório
-  - TÍTULO        → nome que aparece no card
-  - DESCRIÇÃO     → 1 ou 2 linhas explicando o projeto
-  - TECNOLOGIAS   → badges das stacks usadas
-  Repita o bloco para cada projeto.
--->
-
-<!--
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 TÍTULO DO PROJETO</h3>
-      <p>Descrição curta do projeto: o que ele faz e qual problema resolve.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/marxcamilo/NOME-DO-REPO">
-        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-FF4500?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 TÍTULO DO PROJETO</h3>
-      <p>Descrição curta do projeto: o que ele faz e qual problema resolve.</p>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/marxcamilo/NOME-DO-REPO">
-        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-FF4500?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
--->
-
-> 🚧 **Em construção** — os cards de projetos serão publicados em breve.
-
-<br/>
-
 <!-- ==================== GITHUB STATS ==================== -->
 <h2 align="left">📊 GitHub Stats</h2>
 
@@ -107,24 +64,6 @@ Gosto de entender como as coisas funcionam por baixo do capô — de uma linha d
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marxcamilo&theme=radical&background=0D1117&border=FF4500&stroke=FF4500&ring=FF4500&fire=E63946&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-<h2 align="left">📈 Activity Graph</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marxcamilo&bg_color=0D1117&color=FF4500&line=E63946&point=FFFFFF&area=true&area_color=FF4500&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20de%20Marx%20Camilo" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- ==================== TROPHIES ==================== -->
-<h2 align="left">🏆 GitHub Trophies</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marxcamilo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <br/>
