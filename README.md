@@ -1,175 +1,77 @@
 <!--
-  README de perfil — Marx Braga Camilo
-  Usuário GitHub: marxcamilo
+  README de perfil — Marx Camilo
+  Usuário: marxcamilo
 -->
 
 <div align="center">
 
-<!-- BANNER -->
+<!-- ================= BANNER ================= -->
+<svg width="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marx Camilo">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF8A00"/>
+      <stop offset="55%" stop-color="#FF4D00"/>
+      <stop offset="100%" stop-color="#C1121F"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" fill="url(#grad)"/>
+  <g opacity="0.13" stroke="#ffffff" stroke-width="1">
+    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200"/>
+    <path d="M150 0 V300 M300 0 V300 M450 0 V300 M600 0 V300 M750 0 V300 M900 0 V300 M1050 0 V300"/>
+  </g>
+  <rect width="1200" height="300" fill="url(#fade)"/>
+  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="68" font-weight="700" fill="#ffffff" letter-spacing="2">Marx Camilo</text>
+  <text x="600" y="192" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="22" fill="#FFE3D0" letter-spacing="4">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</text>
+  <rect x="520" y="218" width="160" height="4" rx="2" fill="#ffffff" opacity="0.85"/>
+</svg>
+
+<!-- ================= TYPING ================= -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF6B00&center=true&vCenter=true&width=620&lines=Java+%7C+Python;Cloud+%26+Desenvolvimento;Sempre+aprendendo+algo+novo;Construindo+um+projeto+por+vez" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/marx-camilo-b38738423">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/mb_camiloo">
+  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF6B00" alt="Instagram"/>
+</a>
 <a href="https://github.com/marxcamilo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123A6B,100:1E5AA8&height=200&section=header&text=Marx%20Braga%20Camilo&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=ADS%20%7C%20Python%20%7C%20Java%20%7C%20Dados%20%26%20Cloud&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-</a>
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/marxcamilo">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=4A9EFF&center=true&vCenter=true&width=620&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python+%7C+Java+%7C+Banco+de+Dados;Cloud+e+desenvolvimento+na+pr%C3%A1tica;Sempre+aprendendo+algo+novo" alt="Typing animation"/>
-</a>
-
-<br/>
-
-<!-- BADGES DE STATUS -->
-<img src="https://img.shields.io/badge/Status-Cursando%20ADS-1E5AA8?style=for-the-badge&labelColor=0B1F3A" alt="Status"/>
-<img src="https://img.shields.io/badge/Foco-Dados%20%26%20Cloud-1E5AA8?style=for-the-badge&labelColor=0B1F3A" alt="Foco"/>
-<img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Brasil-1E5AA8?style=for-the-badge&labelColor=0B1F3A" alt="Localização"/>
-
-</div>
-
----
-
-## 🇧🇷 Sobre mim
-
-Estudante de **Análise e Desenvolvimento de Sistemas**, com interesse em construir uma base sólida entre **dados, código e infraestrutura**. Gosto de entender como as coisas funcionam por baixo — do modelo de dados à camada onde a aplicação roda.
-
-Hoje meu foco está em **Python e Java** para desenvolvimento, **banco de dados** para estruturar informação de verdade e **cloud** como ambiente onde tudo isso vive. Aprendo na prática: projeto, erro, leitura de documentação, correção.
-
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🐍 Desenvolvendo com **Python** e **Java**
-- 🗄️ Estudando **modelagem e consultas em Banco de Dados**
-- ☁️ Explorando **Cloud e desenvolvimento**
-- 📚 Aprendizado contínuo, sem pressa e sem atalho
-
-## 🇺🇸 About me
-
-**Systems Analysis and Development** student, focused on building a solid foundation across **data, code and infrastructure**. I like understanding how things work underneath — from the data model to the layer where the application runs.
-
-Currently focused on **Python and Java** for development, **databases** for structuring real information, and **cloud** as the environment where all of it lives. I learn by doing: build, break, read the docs, fix.
-
-- 🎓 Studying **Systems Analysis and Development**
-- 🐍 Building with **Python** and **Java**
-- 🗄️ Learning **database modeling and querying**
-- ☁️ Exploring **cloud and development**
-- 📚 Continuous learning, no shortcuts
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-**Linguagens**
-
-<img src="https://skillicons.dev/icons?i=python,java&theme=dark" alt="Python e Java"/>
-
-**Dados & Cloud**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,aws,docker,git,github&theme=dark" alt="Banco de dados e Cloud"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=4A9EFF" alt="Python"/>
-<img src="https://img.shields.io/badge/Java-0B1F3A?style=for-the-badge&logo=openjdk&logoColor=4A9EFF" alt="Java"/>
-<img src="https://img.shields.io/badge/SQL-0B1F3A?style=for-the-badge&logo=mysql&logoColor=4A9EFF" alt="SQL"/>
-<img src="https://img.shields.io/badge/Cloud-0B1F3A?style=for-the-badge&logo=amazonaws&logoColor=4A9EFF" alt="Cloud"/>
-<img src="https://img.shields.io/badge/Git-0B1F3A?style=for-the-badge&logo=git&logoColor=4A9EFF" alt="Git"/>
-
-</div>
-
----
-
-## 🚀 Projetos
-
-> Cards em construção — os repositórios abaixo serão publicados conforme avanço nos estudos.
-
-<div align="center">
-
-<a href="https://github.com/marxcamilo?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marxcamilo&repo=projeto-python&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9&bg_color=0B1F3A&border_color=1E5AA8&hide_border=false" alt="Projeto Python"/>
-</a>
-<a href="https://github.com/marxcamilo?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marxcamilo&repo=projeto-java&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9&bg_color=0B1F3A&border_color=1E5AA8&hide_border=false" alt="Projeto Java"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/marxcamilo?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marxcamilo&repo=projeto-database&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9&bg_color=0B1F3A&border_color=1E5AA8&hide_border=false" alt="Projeto Banco de Dados"/>
-</a>
-<a href="https://github.com/marxcamilo?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=marxcamilo&repo=projeto-cloud&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9&bg_color=0B1F3A&border_color=1E5AA8&hide_border=false" alt="Projeto Cloud"/>
-</a>
-
-</div>
-
-<br/>
-
-| 🧱 Projeto | 🎯 Foco | 📌 Status |
-|:---|:---|:---|
-| **projeto-python** | Automação e manipulação de dados com Python | 🚧 Em construção |
-| **projeto-java** | Aplicação backend orientada a objetos | 🚧 Em construção |
-| **projeto-database** | Modelagem relacional e consultas SQL | ✅ Concluído |
-| **projeto-cloud** | Deploy e infraestrutura na nuvem | 🚧 Em construção |
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=marxcamilo&show_icons=true&include_all_commits=true&count_private=true&hide_rank=false&title_color=4A9EFF&icon_color=4A9EFF&text_color=C9D1D9&bg_color=0B1F3A&border_color=1E5AA8&locale=pt-br" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxcamilo&layout=compact&langs_count=8&title_color=4A9EFF&text_color=C9D1D9&bg_color=0B1F3A&border_color=1E5AA8&locale=pt-br" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=marxcamilo&theme=dark&background=0B1F3A&border=1E5AA8&stroke=1E5AA8&ring=4A9EFF&fire=4A9EFF&currStreakLabel=4A9EFF&sideLabels=C9D1D9&dates=8B98A5&locale=pt_BR" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marxcamilo&bg_color=0B1F3A&color=4A9EFF&line=1E5AA8&point=FFFFFF&area=true&hide_border=false&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=marxcamilo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-## 🌐 Vamos conversar
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/marx-camilo-b38738423" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Marx%20Camilo-0B1F3A?style=for-the-badge&logo=linkedin&logoColor=4A9EFF" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/mb_camiloo" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-@mb__camiloo-0B1F3A?style=for-the-badge&logo=instagram&logoColor=4A9EFF" alt="Instagram"/>
-</a>
-<a href="https://github.com/marxcamilo" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-marxcamilo-0B1F3A?style=for-the-badge&logo=github&logoColor=4A9EFF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00" alt="GitHub"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
+## Sobre mim
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E5AA8,50:123A6B,100:0B1F3A&height=120&section=footer&text=Obrigado%20pela%20visita&fontSize=22&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="Footer"/>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base na prática: escrevendo código, entendendo como as coisas funcionam por baixo e testando ideias em projetos próprios.
 
-<sub>Construindo uma base sólida — um commit de cada vez.</sub>
+Meu foco hoje está em **Java** e **Python**, com interesse crescente em **cloud e desenvolvimento de aplicações**. Gosto da parte que exige raciocínio — lógica, estrutura de dados, arquitetura — e de ver o resultado funcionando de ponta a ponta.
 
-</div>
+Ainda estou no começo da jornada, e é exatamente isso que me move: cada projeto é uma oportunidade de aprender algo que eu não sabia ontem.
+
+```java
+public class MarxCamilo {
+    private final String[] stack = {"Java", "Python"};
+    private final String foco = "Cloud & Desenvolvimento";
+    private boolean aprendendo = true;
+
+    public void rotina() {
+        while (aprendendo) {
+            estudar();
+            codar();
+            errar();
+            corrigir();
+        }
+    }
+}
