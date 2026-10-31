@@ -7,7 +7,7 @@
 
 <!-- BANNER -->
 <a href="https://github.com/marxcamilo">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123A6B,100:1E5AA8&height=200&section=header&text=Marx%20Braga%20Camilo&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=ADS%20%7C%20Python%20%7C%20Java%20%7C%20Dados%20%26%20Cloud&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Banner Marx Braga Camilo"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:123A6B,100:1E5AA8&height=200&section=header&text=Marx%20Braga%20Camilo&fontSize=44&fontColor=FFFFFF&fontAlignY=38&desc=ADS%20%7C%20Python%20%7C%20Java%20%7C%20Dados%20%26%20Cloud&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 </a>
 
 <!-- TYPING ANIMATION -->
