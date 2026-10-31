@@ -59,19 +59,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo 
 Meu foco hoje está em **Java** e **Python**, com interesse crescente em **cloud e desenvolvimento de aplicações**. Gosto da parte que exige raciocínio — lógica, estrutura de dados, arquitetura — e de ver o resultado funcionando de ponta a ponta.
 
 Ainda estou no começo da jornada, e é exatamente isso que me move: cada projeto é uma oportunidade de aprender algo que eu não sabia ontem.
-
-```java
-public class MarxCamilo {
-    private final String[] stack = {"Java", "Python"};
-    private final String foco = "Cloud & Desenvolvimento";
-    private boolean aprendendo = true;
-
-    public void rotina() {
-        while (aprendendo) {
-            estudar();
-            codar();
-            errar();
-            corrigir();
-        }
-    }
-}
