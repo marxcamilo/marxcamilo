@@ -11,13 +11,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:E63946,100:B31217&height=200&section=header&text=Marx%20Camilo&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Marx Camilo"/>
 
 <!-- ==================== TYPING ==================== -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+Python+%7C+Cloud;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
-  </a>
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Estudante+de+ADS;Java+%2B+Python;Cloud+e+desenvolvimento;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</a>
 
 <br/>
+
+<img src="https://komarev.com/ghpvc/?username=marxcamilo&label=Visitas&color=E63946&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/Status-Estudando-FF6B00?style=flat-square&labelColor=1a1a1a" alt="Status"/>
+
+</div>
 
 <!-- ==================== SOBRE MIM ==================== -->
 <h2 align="left">
