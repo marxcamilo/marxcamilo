@@ -1,61 +1,168 @@
 <!--
   README de perfil — Marx Camilo
-  Usuário: marxcamilo
+  Instruções rápidas:
+  1. Crie um repositório público com o MESMO nome do seu usuário: marxcamilo
+  2. Adicione este arquivo como README.md na raiz
+  3. Para o Snake: crie .github/workflows/snake.yml (código no final deste arquivo)
+  4. Para o Activity Graph: crie o repositório "marxcamilo" e a branch "output" será criada pelo workflow
 -->
 
+<!-- ==================== BANNER ==================== -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:E63946,100:8B0000&height=200&section=header&text=Marx%20Camilo&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Java%20%26%20Python&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marx Camilo"/>
+</div>
 
-<!-- ================= BANNER ================= -->
-<svg width="100%" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Marx Camilo">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#FF8A00"/>
-      <stop offset="55%" stop-color="#FF4D00"/>
-      <stop offset="100%" stop-color="#C1121F"/>
-    </linearGradient>
-    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0D1117" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.55"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="300" fill="url(#grad)"/>
-  <g opacity="0.13" stroke="#ffffff" stroke-width="1">
-    <path d="M0 60 H1200 M0 120 H1200 M0 180 H1200 M0 240 H1200"/>
-    <path d="M150 0 V300 M300 0 V300 M450 0 V300 M600 0 V300 M750 0 V300 M900 0 V300 M1050 0 V300"/>
-  </g>
-  <rect width="1200" height="300" fill="url(#fade)"/>
-  <text x="600" y="140" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="68" font-weight="700" fill="#ffffff" letter-spacing="2">Marx Camilo</text>
-  <text x="600" y="192" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif"
-        font-size="22" fill="#FFE3D0" letter-spacing="4">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</text>
-  <rect x="520" y="218" width="160" height="4" rx="2" fill="#ffffff" opacity="0.85"/>
-</svg>
-
-<!-- ================= TYPING ================= -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF6B00&center=true&vCenter=true&width=620&lines=Java+%7C+Python;Cloud+%26+Desenvolvimento;Sempre+aprendendo+algo+novo;Construindo+um+projeto+por+vez" alt="Typing SVG" />
-</a>
+<!-- ==================== TYPING ==================== -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Java+%7C+Python+%7C+Cloud;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
+  </a>
+</div>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/marx-camilo-b38738423">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6B00" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/mb_camiloo">
-  <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FF6B00" alt="Instagram"/>
-</a>
-<a href="https://github.com/marxcamilo">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6B00" alt="GitHub"/>
-</a>
+<!-- ==================== SOBRE MIM ==================== -->
+<h2 align="left">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Sobre mim
+</h2>
 
+Sou **Marx Camilo**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java**, **Python** e **computação em nuvem**.
+
+Gosto de entender como as coisas funcionam por baixo do capô — de uma linha de código até o deploy em produção. Meu objetivo é construir soluções limpas, bem estruturadas e que resolvam problemas reais.
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
+- 💻 Estudando **Java** e **Python** no dia a dia
+- ☁️ Explorando **Cloud e desenvolvimento de aplicações**
+- 🎯 Foco atual: evoluir em **back-end** e **boas práticas de engenharia de software**
+- 📍 Brasil
+
+<br/>
+
+<!-- ==================== TECNOLOGIAS ==================== -->
+<h2 align="left">🛠️ Tecnologias</h2>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Cloud-FF4500?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud"/>
 </div>
 
----
+<br/>
 
-## Sobre mim
+<!-- ==================== PROJETOS ==================== -->
+<h2 align="left">🚀 Projetos</h2>
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha base na prática: escrevendo código, entendendo como as coisas funcionam por baixo e testando ideias em projetos próprios.
+<!--
+  COMO PREENCHER OS CARDS:
+  Copie o bloco abaixo e substitua:
+  - NOME-DO-REPO  → nome exato do repositório
+  - TÍTULO        → nome que aparece no card
+  - DESCRIÇÃO     → 1 ou 2 linhas explicando o projeto
+  - TECNOLOGIAS   → badges das stacks usadas
+  Repita o bloco para cada projeto.
+-->
 
-Meu foco hoje está em **Java** e **Python**, com interesse crescente em **cloud e desenvolvimento de aplicações**. Gosto da parte que exige raciocínio — lógica, estrutura de dados, arquitetura — e de ver o resultado funcionando de ponta a ponta.
+<!--
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📌 TÍTULO DO PROJETO</h3>
+      <p>Descrição curta do projeto: o que ele faz e qual problema resolve.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/marxcamilo/NOME-DO-REPO">
+        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-FF4500?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📌 TÍTULO DO PROJETO</h3>
+      <p>Descrição curta do projeto: o que ele faz e qual problema resolve.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/marxcamilo/NOME-DO-REPO">
+        <img src="https://img.shields.io/badge/Ver_reposit%C3%B3rio-FF4500?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+-->
 
-Ainda estou no começo da jornada, e é exatamente isso que me move: cada projeto é uma oportunidade de aprender algo que eu não sabia ontem.
+> 🚧 **Em construção** — os cards de projetos serão publicados em breve.
+
+<br/>
+
+<!-- ==================== GITHUB STATS ==================== -->
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marxcamilo&show_icons=true&theme=radical&title_color=FF4500&icon_color=FF4500&text_color=c9d1d9&bg_color=0D1117&border_color=FF4500&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marxcamilo&layout=compact&theme=radical&title_color=FF4500&text_color=c9d1d9&bg_color=0D1117&border_color=FF4500&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marxcamilo&theme=radical&background=0D1117&border=FF4500&stroke=FF4500&ring=FF4500&fire=E63946&currStreakLabel=FF4500&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<!-- ==================== ACTIVITY GRAPH ==================== -->
+<h2 align="left">📈 Activity Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marxcamilo&bg_color=0D1117&color=FF4500&line=E63946&point=FFFFFF&area=true&area_color=FF4500&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20de%20Marx%20Camilo" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- ==================== TROPHIES ==================== -->
+<h2 align="left">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marxcamilo&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
+
+<br/>
+
+<!-- ==================== SNAKE ==================== -->
+<h2 align="left">🐍 Contribuições</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/marxcamilo/marxcamilo/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<!-- ==================== REDES SOCIAIS ==================== -->
+<h2 align="left">🌐 Vamos conversar</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/marx-camilo-b38738423" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/mb_camiloo" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/marxcamilo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
+<br/>
+
+<!-- ==================== RODAPÉ ==================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:E63946,100:FF4500&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="Footer"/>
+</div>
+
+<div align="center">
+  <sub>Feito com dedicação por <strong>Marx Camilo</strong> · <em>"Aprender todo dia, construir sempre."</em></sub>
+</div>
