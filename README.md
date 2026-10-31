@@ -8,9 +8,7 @@
 -->
 
 <!-- ==================== BANNER ==================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4500,50:E63946,100:8B0000&height=200&section=header&text=Marx%20Camilo&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Java%20%26%20Python&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Marx Camilo"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:E63946,100:B31217&height=200&section=header&text=Marx%20Camilo&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Marx Camilo"/>
 
 <!-- ==================== TYPING ==================== -->
 <div align="center">
