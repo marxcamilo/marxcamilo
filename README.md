@@ -1,14 +1,53 @@
-<!--
-  README de perfil — Marx Camilo
-  Instruções rápidas:
-  1. Crie um repositório público com o MESMO nome do seu usuário: marxcamilo
-  2. Adicione este arquivo como README.md na raiz
-  3. Para o Snake: crie .github/workflows/snake.yml (código no final deste arquivo)
-  4. Para o Activity Graph: crie o repositório "marxcamilo" e a branch "output" será criada pelo workflow
--->
-
 <!-- ==================== BANNER ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:E63946,100:B31217&height=200&section=header&text=Marx%20Camilo&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Cloud&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Marx Camilo"/>
+
+<div align="center">
+
+<svg width="100%" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF3D00"/>
+      <stop offset="55%" stop-color="#FF6B00"/>
+      <stop offset="100%" stop-color="#FFA000"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="260" rx="18" fill="url(#grad)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#fade)"/>
+
+  <!-- linhas decorativas -->
+  <g stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="1">
+    <line x1="0" y1="70" x2="1000" y2="70"/>
+    <line x1="0" y1="190" x2="1000" y2="190"/>
+  </g>
+
+  <!-- monograma -->
+  <g transform="translate(78,130)">
+    <circle r="52" fill="#0D1117" fill-opacity="0.55" stroke="#FFFFFF" stroke-opacity="0.35"/>
+    <text x="0" y="14" font-family="'Segoe UI',Arial,sans-serif" font-size="42"
+          font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="1">MC</text>
+  </g>
+
+  <!-- nome -->
+  <text x="165" y="118" font-family="'Segoe UI',Arial,sans-serif" font-size="46"
+        font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Marx Camilo</text>
+
+  <!-- subtítulo -->
+  <text x="167" y="156" font-family="'Segoe UI',Arial,sans-serif" font-size="18"
+        fill="#FFFFFF" fill-opacity="0.92" letter-spacing="2.5">ANÁLISE E DESENVOLVIMENTO DE SISTEMAS</text>
+
+  <!-- tags -->
+  <g font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#FFFFFF" fill-opacity="0.85">
+    <text x="167" y="200">Java</text>
+    <text x="222" y="200">·</text>
+    <text x="240" y="200">Python</text>
+    <text x="310" y="200">·</text>
+    <text x="328" y="200">Cloud</text>
+  </g>
+</svg>
 
 <!-- ==================== TYPING ==================== -->
 <a href="https://git.io/typing-svg">
