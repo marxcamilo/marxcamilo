@@ -67,9 +67,7 @@
   Sobre mim
 </h2>
 
-Sou **Marx Camilo**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java**, **Python** e **computação em nuvem**.
-
-Gosto de entender como as coisas funcionam por baixo do capô — de uma linha de código até o deploy em produção. Meu objetivo é construir soluções limpas, bem estruturadas e que resolvam problemas reais.
+Sou **Marx Camilo**, estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java** e **Python**.
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
 - 💻 Estudando **Java** e **Python** no dia a dia
